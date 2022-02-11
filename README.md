@@ -1,9 +1,11 @@
 ### Oláá! Eu sou Leandro Davi 👋
 
 
-- 🔭 Estudante Front-End,
-- 🌱 Estudando Manipulação Orientada a objetos,
+- 📕 Estudante Front-End,
+- 📒 Estudando Manipulação Orientada a objetos,
 - ⚡ Curiosidade: Tenho apenas 16 anos.
+
+## 
 
 <div align="center">
   <a href="https://github.com/Onlyveira">
