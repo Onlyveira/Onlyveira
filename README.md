@@ -3,7 +3,7 @@
 
 - 📕 Estudante Front-End,
 - 📒 Estudando Manipulação Orientada a objetos,
-- ⚡ Curiosidade: Tenho apenas 16 anos.
+- ⚡ Curiosidade: Tenho apenas 17 anos.
 
 ## 
 
