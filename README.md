@@ -1,9 +1,9 @@
 ### Oláá! Eu sou Leandro Davi 👋
 
 
-- 📕 Estudante Front-End,
+- 📕 Estudante back-End,
 - 📒 Estudando Manipulação Orientada a objetos,
-- ⚡ Curiosidade: Tenho apenas 17 anos.
+- ⚡ Curiosidade: Tenho apenas 18 anos.
 
 ## 
 
