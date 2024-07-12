@@ -3,7 +3,6 @@
 
 - 📕 Estudante back-End,
 - 📒 Estudando Manipulação Orientada a objetos,
-- ⚡ Curiosidade: Tenho apenas 18 anos.
 
 ## 
 
