@@ -1,8 +1,7 @@
 ### Oláá! Eu sou Leandro Davi 👋
 
 
-- 📕 Estudante back-End,
-- 📒 Estudando Manipulação Orientada a objetos,
+
 
 ## 
 
