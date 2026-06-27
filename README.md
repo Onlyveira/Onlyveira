@@ -3,13 +3,12 @@
 ## Participando do Hackathon COBOL - STEFANINI 2026
 
 
-
 ## 
 
 <div align="center">
   <a href="https://github.com/Onlyveira">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Onlyveira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onlyveira&layout=compact&langs_count=10&theme=great-gatsby"/>
+  <img height="140em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Onlyveira&layout=compact&langs_count=10&theme=great-gatsby](https://github-readme-stats.vercel.app/api/top-langs/?username=Onlyveira&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)"/>
 </div>
 
 <div align="center"><br>
