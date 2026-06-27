@@ -5,9 +5,8 @@
 
 ## 
 
-<div align="center">
-  ![Onlyveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onlyveira&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-  ![Onlyveira's Stats](https://github-readme-stats.vercel.app/api?username=Onlyveira&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+<div align ="center" >
+  <img src  = "https://github-readme-stats.vercel.app/api/top-langs/?username=Onlyveira&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 <div align="center"><br>
