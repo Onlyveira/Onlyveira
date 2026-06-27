@@ -1,5 +1,6 @@
-### Oláá! Eu sou Leandro Davi 👋
-
+### Olá! Eu sou Leandro Davi 👋
+### Estudante de Análise e Desenvolvimento de Sistemas
+### Participando do Hackathon COBOL - STEFANINI 2026
 
 
 
